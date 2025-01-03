@@ -1,4 +1,4 @@
-<div align="right">
+<div align="left">
   <img src="https://profile-counter.glitch.me/Dar3valo/count.svg?"  />
 </div>
 
