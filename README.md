@@ -77,14 +77,6 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
-###
-
 <div align="left">
   <a href="https://open.spotify.com/user/yk712p1bko81xcyz38gkzmfmq">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=yk712p1bko81xcyz38gkzmfmq&count=1&unique=false" alt="Spotify recently played"  />
