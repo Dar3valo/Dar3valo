@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Yo! My name is Darren Wong Hong Chee and I'm a Year 2 Information Technology student, from Singapore Polytechnic.<br><br>Hobbies:<br>- Gaming 🖥️<br>- Music Production 🎼<br>- Playing Guitar 🎸<br>- Front End Development ⌨️<br><br>I'm currently learning about how full stack development projects are planned and<br>software development (Java, Express, JS etc.)<br><br>Fun fact:<br>I am a retired professional valorant player of team TuT, the champion of division Elite 3.</h2>
+<h2 align="left">Yo! My name is Darren Wong Hong Chee and I'm a Year 2 Information Technology student, from Singapore Polytechnic.<br><br>Hobbies:<br>- Gaming 🖥️<br>- Music Production 🎼<br>- Playing Guitar 🎸<br>- Front End Development ⌨️<br><br>I'm currently learning about how full stack development projects are planned and<br>software development (Java, Express, JS etc.)<br><br>
 
 ###
 
